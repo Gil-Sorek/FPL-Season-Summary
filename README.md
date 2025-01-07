@@ -25,6 +25,17 @@ Compare your ranks and points, including transfers made, hits, bench points, cap
 - **Total Points (MID)**
 - **Total Points (FWD)**
 
+## Installation
+You will need to follow the steps below to download and install required packages
+
+- Clone the repository
+
+`git clone https://github.com/Gil-Sorek/FPL-Season-Summary.git fpl-season-summary`
+
+- Install required packages
+
+`pip install -r requirements.txt`
+
 ## Configuration
 Set 'league_id' variable into your league's personal ID.
 The league ID can be found within the fantasy website url under 'Leagues & Cups' after choosing your league
