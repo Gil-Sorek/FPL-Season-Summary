@@ -8,7 +8,7 @@ Compare your ranks and points, including transfers made, hits, bench points, cap
 
 - **Total Points**
 - **Top Gameweek Scorer** (number of GWs each manager scored the highest points)
-- **Transfers Made*
+- **Transfers Made**
 - **Hits**
 - **Bench Points**
 - **Substitution Points**
