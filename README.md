@@ -30,7 +30,7 @@ You will need to follow the steps below to download and install required package
 
 - Clone the repository
 
-`git clone https://github.com/Gil-Sorek/FPL-Season-Summary.git fpl-season-summary`
+`git clone https://github.com/gil-sorek/FPL-Season-Summary.git fpl-season-summary`
 
 - Install required packages
 
